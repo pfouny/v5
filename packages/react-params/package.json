@@ -1,0 +1,19 @@
+{
+  "bugs": "https://github.com/shineX/explorer/issues",
+  "homepage": "https://github.com/shineX/explorer/tree/master/packages/react-params#readme",
+  "license": "Apache-2.0",
+  "name": "@polkadot/react-params",
+  "private": true,
+  "repository": {
+    "directory": "packages/react-params",
+    "type": "git",
+    "url": "https://github.com/shineX/explorer.git"
+  },
+  "sideEffects": false,
+  "type": "module",
+  "version": "0.106.2-42",
+  "dependencies": {
+    "@babel/runtime": "^7.17.2",
+    "@polkadot/react-components": "^0.106.2-42"
+  }
+}
